@@ -48,3 +48,8 @@
     width: fit-content;
     max-height: 400px;
 }
+
+.like {
+    background-color: red;
+    color: white;
+}
